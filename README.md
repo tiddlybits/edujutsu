@@ -1,3 +1,3 @@
-# indiewelp
+# edujutsu
 
 Welp, I guess I better write this soon...
